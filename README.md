@@ -1,4 +1,4 @@
-A Number Guessing game in Java:
+# A Number Guessing game in Java:
 
 The game will prompt the user for a level of difficulty. The game will then continue and have the user
 guess a number within the level range. It will provide prompts suggesting to guess higher or lower.
