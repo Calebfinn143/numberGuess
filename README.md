@@ -9,17 +9,17 @@ to the user at the end.
 
 # Development Environment
 
-Visual Studio Code 1.72.2
-Github
+* Visual Studio Code 1.72.2
+* Github
 
-Java OpenJDK 19.0.1
-  java.util.Scanner
-  java.util.ArrayList
+* Java OpenJDK 19.0.1
+* java.util.Scanner
+* java.util.ArrayList
 
 # Useful Websites
 
-* Java Tutorial W3Schools   https://www.w3schools.com/java/
-* Java T Point              https://www.javatpoint.com/string-comparison-in-java
+* Java Tutorial W3Schools https://www.w3schools.com/java/
+* Java T Point https://www.javatpoint.com/string-comparison-in-java
 
 # Future Work
 
