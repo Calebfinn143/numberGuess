@@ -5,7 +5,8 @@ guess a number within the level range. It will provide prompts suggesting to gue
 Keeping track of the total number of guesses as well as a list of all of the guesses will be showed
 to the user at the end. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+Demo Video
+https://youtu.be/6kmmpGdr4vw
 
 # Development Environment
 
@@ -23,6 +24,7 @@ to the user at the end.
 
 # Future Work
 
+* Fix the listing of guesses from the user at the end of the game
 * Create allowance for user to quit midgame
 * Allow player to save high score of levels on file
 * Create allowance for user to have better hint
